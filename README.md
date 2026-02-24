@@ -1,9 +1,12 @@
 # 🐱 vs 🐶 Классификатор кошек и собак
 
-[![Streamlit App](......)]
+[![Streamlit App](https://cats-vs-dogs-classifier-kdb6a9ftawqt99snwymese.streamlit.app/)]
 
 ## 📝 Описание проекта
 Веб-приложение на базе нейросети, которое определяет, кто изображён на фото — кошка или собака.
+
+## 🌍 Демо
+**Попробуй приложение вживую:** [👉 cats-vs-dogs-classifier.streamlit.app](https://cats-vs-dogs-classifier-kdb6a9ftawqt99snwymese.streamlit.app)
 
 ## 🛠️ Технологии
 - **Python** 3.13
